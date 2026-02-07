@@ -3,4 +3,5 @@
 # 65.CNTT-2
 
 # Quá trình làm bài tập
-  Lab1_Bai1_DTB
+## Lab1_Bai1_DTB
+
